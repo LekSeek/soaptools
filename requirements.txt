@@ -1,0 +1,5 @@
+lxml==4.7.1
+requests==2.27.1
+black==22.1.0
+argparse==1.4.0
+zeep==4.1.0

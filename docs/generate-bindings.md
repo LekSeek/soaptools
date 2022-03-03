@@ -1,0 +1,1 @@
+this is WiP currently. Generates classes but you cant use them for generating XML, only for validation arguments for now

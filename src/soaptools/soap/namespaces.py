@@ -1,0 +1,5 @@
+WSDL_NAMESPACE = "http://schemas.xmlsoap.org/wsdl/"
+XS_NAMESPACE = "http://www.w3.org/2001/XMLSchema"
+MS_SERIALIZATION_NAMESPACE = "http://schemas.microsoft.com/2003/10/Serialization/"
+WS_POLICY_NAMESPACE = "http://schemas.xmlsoap.org/ws/2004/09/policy"
+WSAW_NAMESPACE = "http://www.w3.org/2006/05/addressing/wsdl"
